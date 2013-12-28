@@ -1,0 +1,6 @@
+[submodule "core"]
+	path = core
+	url = https://github.com/jprocessing/core.git
+[submodule "users"]
+	path = users
+	url = https://github.com/jprocessing/users.git
