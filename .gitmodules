@@ -4,3 +4,9 @@
 [submodule "users"]
 	path = users
 	url = https://github.com/jprocessing/users.git
+[submodule "jprocessing-core"]
+	path = jprocessing-core
+	url = https://github.com/jprocessing/core.git
+[submodule "jprocessing-customers"]
+	path = jprocessing-customers
+	url = https://github.com/jprocessing/customers.git
